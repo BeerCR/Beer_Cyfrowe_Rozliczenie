@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Beer_Cyfrowe_Rozliczenie</string>
+    <string name="Obrazek">TODO</string>
+    <string name="sluzby">Button</string>
+    <string name="Pasza">Jedzenie na stołówkach</string>
+    <string name="Sluzby">sluzby</string>
+    <string name="jedzenie_na_sto_wkach">Jedzenie na stołówkach</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="sto_wka_nr1">Stołówka nr1</string>
+    <string name="s_uzby">Słuzby</string>
+    <string name="title_activity_jedzenie">Jedzenie</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="stolowka1">Stołówka nr1</string>
+    <string name="stolowka2">Stolówka nr2</string>
+    <string name="stolowka3">Stołówka nr3</string>
+    <string name="hilton">Hilton</string>
+    <string name="text1">Podoficer dyżurny 14 Kp - sierż. pchor Jebadełko</string>
+    <string name="text2">1 Dyżurny 14 Kp - st. kpr. pchor. Kowadełko</string>
+    <string name="text3">Podoficer dużurny 3 BS plut. pchor. Kapelusik</string>
+    <string name="logowanie">Logowanie do systemu</string>
+    <string name="title_activity_logowanie">Logowanie</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="menu">Menu główne</string>
+    <string name="todo1">TODO</string>
+    <string name="menu1">menu główne</string>
+    <string name="title_activity_baza">Baza</string>
+    <string name="book_title">Book Title</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="number_of_pages">Number of pages</string>
+    <string name="book_author">Book Author</string>
+    <string name="dodaj">TODO</string>
+    <string name="imi">Imię</string>
+    <string name="nazwisko">Nazwisko</string>
+    <string name="gdzie_jest">Gdzie jest</string>
+    <string name="dodaj1">Dodaj</string>
+</resources>
